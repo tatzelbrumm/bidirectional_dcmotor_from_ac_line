@@ -1,5 +1,5 @@
 # bidirectional_dcmotor_from_ac_line
-some LTspice draft circuits for driving a DC motor from single-phase AC line
+some [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) draft circuits for driving a DC motor from single-phase AC line
 
 Large DC motors such as are found in Treadmills are commonly available a less than their cost of mfgr. Sadly, their controllers are unidirectional, which prevents their use in servo systems. 
 
